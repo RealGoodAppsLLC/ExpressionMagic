@@ -1,5 +1,5 @@
 <Project>
     <PropertyGroup>
-        <ExpressionMagicVersion>0.1.0</ExpressionMagicVersion>
+        <ExpressionMagicVersion>0.2.0</ExpressionMagicVersion>
     </PropertyGroup>
 </Project>
