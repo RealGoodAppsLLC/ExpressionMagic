@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <RootNamespace>RealGoodApps.ExpressionMagic</RootNamespace>
+        <Version>$(ExpressionMagicVersion)</Version>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <PackageId>ExpressionMagic</PackageId>
+        <PackageVersion>$(ExpressionMagicVersion)</PackageVersion>
+        <Authors>RealGoodApps, LLC</Authors>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/RealGoodAppsLLC/ExpressionMagic/main/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/RealGoodAppsLLC/ExpressionMagic</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/RealGoodAppsLLC/ExpressionMagic</RepositoryUrl>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <Description>ExpressionMagic</Description>
+        <PackageReleaseNotes>See the following: https://raw.githubusercontent.com/RealGoodAppsLLC/ExpressionMagic/main/CHANGELOG.md</PackageReleaseNotes>
+        <Copyright>Copyright 2021 RealGoodApps, LLC</Copyright>
+        <PackageTags>dynamic expression building, predicate building, combine expressions</PackageTags>
+    </PropertyGroup>
+
+</Project>
